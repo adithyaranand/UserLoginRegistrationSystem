@@ -14,7 +14,7 @@ This project demonstrates a simple web-based user registration and login system.
 - Secure user authentication
 - Password encryption
 - Input validation
-  
+
 ## Technologies Used
 
 - **Java:** Core programming language.
@@ -44,7 +44,6 @@ To set up and run this project, follow these steps:
 4. **Deploy the project on a Tomcat server:**
     - Configure a Tomcat server in your IDE.
     - Deploy the project to the server.
-      
-4. **Running the project:**
-    -Run the project on the server
-  
+
+5. **Running the project:**
+    - Run the project on the server.
